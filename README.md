@@ -1,12 +1,5 @@
 # Poe-Farm-Bot
 
-<p align="center"> 
-  Visitor count <br>
-  <a href="https://github.com/LoXtika-Cat">
-    <img src="https://profile-counter.glitch.me/LoXtika-Cat/Poe-Farm-Bot/count.svg" />
-  </a>
-</p>
-
 This software is designed to optimize the gaming process in Path of Exile, specifically to create a more comfortable process for buying currency from Tujen. The program is currently in beta stage, and I will try to update its functionality and fix any errors as much as possible. If you notice any issues, please report them to me. You can reach me on Discord at No_drama#3708, or visit my Discord server at https://discord.gg/JP8JDkuUbp.
 
 To activate the bot you need to hold caps lock
