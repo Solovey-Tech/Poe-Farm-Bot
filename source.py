@@ -114,6 +114,7 @@ class MainWindow(QWidget):
         layout.addWidget(self.threshold_label)
         layout.addWidget(self.delay_slider)
         layout.addWidget(self.delay_label)
+        
         layout.addLayout(template_box)
 
         region_label = QLabel('Region:')
