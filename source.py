@@ -13,6 +13,7 @@ from PyQt5.QtGui import QCursor
 
 x, y, w, h = 300, 250, 115, 600
 
+
 templates = [
     cv2.imread('Screenshot_1.png', cv2.IMREAD_GRAYSCALE),
     cv2.imread('Screenshot_2.png', cv2.IMREAD_GRAYSCALE),
