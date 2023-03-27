@@ -11,6 +11,7 @@ import keyboard
 from PyQt5.QtCore import QTimer, QPoint
 from PyQt5.QtGui import QCursor
 
+
 x, y, w, h = 300, 250, 115, 600
 
 
