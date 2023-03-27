@@ -49,6 +49,7 @@ captured_position_3 = None
 captured_position_4 = None
 
 
+
 class MainWindow(QWidget):
 
     def __init__(self, delay_value=0.5):
