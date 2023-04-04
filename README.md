@@ -10,8 +10,6 @@ The program uses OpenCV technology and does not interfere with the game's memory
 
 Possible problems when using the program:
 
-I do not have enough data on how well the program will detect images of different currency depending on the manufacturer model of your graphics card, whether it is AMD or NVIDIA. Also, you should make sure that you are not changing any image parameters on your screen such as gamma, sharpness, blur, or post-processing using software. In my case, testing was done on an AMD RX 580 graphics card.
-
 Depending on the resolution of your game window, there may be some inaccuracies in detecting image templates. The resolution on which the program works most correctly is 1920x1080.
 
 I do not have enough data on how well the program will work on DirectX 12 and Vulkan API versions. The program works most stably on DirectX 11. Testing was also done on DirectX 12, and the program worked correctly, but there is still not enough data.
